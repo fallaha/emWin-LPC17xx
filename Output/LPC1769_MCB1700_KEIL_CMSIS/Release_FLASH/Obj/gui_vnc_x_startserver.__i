@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport -I.\MouseKeyboard\libraries\LPCUSBLib\Drivers\USB -I.\MouseKeyboard\libraries\BSP -I.\MouseKeyboard\libraries\CDL\LPC17xxLib\inc -I.\MouseKeyboard\libraries\LPCUSBLib\Drivers\USB\Class\Common -I.\FlashFS --diag_suppress=951 --gnu --diag_suppress=1207,2776 
+-I C:\Keil\ARM\RV31\INC
+-I C:\Keil\ARM\CMSIS\Include
+-I C:\Keil\ARM\Inc\NXP\LPC17xx
+-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_HOST_ONLY
+-o .\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\gui_vnc_x_startserver.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\gui_vnc_x_startserver.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\gui_vnc_x_startserver.d "GUI\GUI_VNC_X_StartServer.c"

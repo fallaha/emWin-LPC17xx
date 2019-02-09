@@ -1,0 +1,13 @@
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: Config\GUIDRV_CompactColor_16.c
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\GUI_Private.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\GUI.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\GUI_ConfDefaults.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\GUIConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\GUI_Type.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\LCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\Global.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\GUI_Version.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\LCD_Protected.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\GUI_Debug.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\guidrv_compactcolor_16.o: GUI\WM_GUI.h

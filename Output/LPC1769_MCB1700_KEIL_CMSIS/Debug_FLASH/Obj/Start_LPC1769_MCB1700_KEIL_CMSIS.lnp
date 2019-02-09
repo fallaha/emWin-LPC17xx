@@ -1,0 +1,19 @@
+--cpu Cortex-M3
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\gui_x.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\guiconf.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\simconf.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\asciilib.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\glcd.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\hzlib.o"
+".\GUI\GUI_CM3.lib"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\hwconf.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\system_lpc17xx.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\startup_lpc17xx_keil.o"
+".\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main app.o"
+--library_type=microlib --strict --scatter ".\Output\LPC1769_MCB1700_KEIL_CMSIS\Debug_FLASH\Obj\Start_LPC1769_MCB1700_KEIL_CMSIS.sct"
+
+--diag_suppress=6329 --diag_suppress=6314 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Output\LPC1769_MCB1700_KEIL_CMSIS\Debug_FLASH\Lst\Start_LPC1769_MCB1700_KEIL_CMSIS.map" -o .\Output\LPC1769_MCB1700_KEIL_CMSIS\Debug_FLASH\Obj\Start_LPC1769_MCB1700_KEIL_CMSIS.axf

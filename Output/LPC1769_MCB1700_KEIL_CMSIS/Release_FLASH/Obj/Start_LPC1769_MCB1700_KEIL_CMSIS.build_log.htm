@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.14.0.0
+Copyright (C) 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: ali fallah, nocompony, LIC=14HTG-VXAKB-PBQEG-V1P5E-AZNPE-E3WH6
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Standard  Version: 5.14.0.0
+Toolchain Path:  C:\Keil\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.05 update 1 (build 106)
+Assembler:       Armasm.exe V5.05 update 1 (build 106)
+Linker/Locator:  ArmLink.exe V5.05 update 1 (build 106)
+Library Manager: ArmAr.exe V5.05 update 1 (build 106)
+Hex Converter:   FromElf.exe V5.05 update 1 (build 106)
+CPU DLL:         SARMCM3.DLL V5.14.0.0
+Dialog DLL:      DARMP1.DLL V1.25.0.0
+Target DLL:      UL2CM3.DLL V1.155.0.0
+Dialog DLL:      TARMP1.DLL V1.24.0.0
+ 
+<h2>Project:</h2>
+D:\emwins\AF emWin\NXP_emWin514_MCB1700_BSP((electro2014.ir))\NXP_emWin514_MCB1700_Keil_CMSIS.uvproj
+Project File Date:  10/13/2016
+
+<h2>Output:</h2>
+Build target 'Release_FLASH'
+
+FCARM uses the following Files via command file '.\Auto_FcArm_Cmd.inp':
+AF_LCD_LIB\AF_LCD.cpp 
+TO NXP_emWin514_MCB1700_Keil_CMSIS.c NOPRINT
+custom translating @.\Auto_FcArm_Cmd.inp...
+Custom: C:\Keil\ARM\Bin\FCARM.exe @.\Auto_FcArm_Cmd.inp
+FCARM FILE CONVERTER V2.52
+Completed 1 File(s), Ratio 100%
+compiling NXP_emWin514_MCB1700_Keil_CMSIS.c...
+compiling Main_app.cpp...
+Application\Main_app.cpp(220): warning:  #546-D: transfer of control bypasses initialization of:
+            variable "countetme" (declared at line 231)
+    switch (pMsg->MsgId) {
+    ^
+Application\Main_app.cpp(284): warning:  #177-D: variable "hWin" was declared but never referenced
+    WM_HWIN hWin;
+Application\Main_app.cpp: 2 warnings, 0 errors
+linking...
+Program Size: Code=157376 RO-data=251708 RW-data=2660 ZI-data=30068  
+FromELF: creating hex file...
+".\Output\LPC1769_MCB1700_KEIL_CMSIS\Release_FLASH\Obj\Start_LPC1769_MCB1700_KEIL_CMSIS.axf" - 0 Error(s), 2 Warning(s).
+</pre>
+</body>
+</html>

@@ -1,0 +1,105 @@
+Dependencies for Project 'NXP_emWin514_MCB1700_Keil_CMSIS', Target 'Debug_FLASH': (DO NOT MODIFY !)
+F (.\Config\GUI_X.c)(0x57ED6A67)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\gui_x.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\gui_x.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\gui_x.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54762438)
+I (GUI\GUI.h)(0x54491B8E)
+I (GUI\GUI_ConfDefaults.h)(0x54491B8E)
+I (GUI\GUIConf.h)(0x54491B8E)
+I (GUI\GUI_Type.h)(0x54491B8E)
+I (GUI\LCD.h)(0x51C7CDEA)
+I (GUI\Global.h)(0x54491B8E)
+I (GUI\GUI_Version.h)(0x54491B8E)
+F (.\Config\GUIConf.c)(0x57E3072B)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\guiconf.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\guiconf.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\guiconf.d)
+I (GUI\GUI.h)(0x54491B8E)
+I (GUI\GUI_ConfDefaults.h)(0x54491B8E)
+I (GUI\GUIConf.h)(0x54491B8E)
+I (GUI\GUI_Type.h)(0x54491B8E)
+I (GUI\LCD.h)(0x51C7CDEA)
+I (GUI\Global.h)(0x54491B8E)
+I (GUI\GUI_Version.h)(0x54491B8E)
+F (.\Config\GUIConf.h)(0x575F8A14)()
+F (.\Config\LCDConf.c)(0x52F65357)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.d)
+I (GUI\GUI.h)(0x54491B8E)
+I (GUI\GUI_ConfDefaults.h)(0x54491B8E)
+I (GUI\GUIConf.h)(0x54491B8E)
+I (GUI\GUI_Type.h)(0x54491B8E)
+I (GUI\LCD.h)(0x51C7CDEA)
+I (GUI\Global.h)(0x54491B8E)
+I (GUI\GUI_Version.h)(0x54491B8E)
+I (GUI\GUIDRV_FlexColor.h)(0x54491B8E)
+I (Config\GLCD.h)(0x575EBCE2)
+I (System\HW\DeviceSupport\LPC17xx.h)(0x4FBD347F)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53465C9C)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (System\HW\DeviceSupport\system_LPC17xx.h)(0x4FBD347F)
+F (.\Config\LCDConf.h)(0x52F67659)()
+F (.\Config\SIMConf.c)(0x51DAB7D4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\simconf.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\simconf.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\simconf.d)
+F (.\Config\AsciiLib.c)(0x4CEFC11E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\asciilib.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\asciilib.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\asciilib.d)
+I (Config\AsciiLib.h)(0x4CEFC157)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+F (.\Config\GLCD.c)(0x52F64F20)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\glcd.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\glcd.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\glcd.d)
+I (Config\GLCD.h)(0x575EBCE2)
+I (System\HW\DeviceSupport\LPC17xx.h)(0x4FBD347F)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53465C9C)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (System\HW\DeviceSupport\system_LPC17xx.h)(0x4FBD347F)
+I (Config\HzLib.h)(0x4CEFE9AE)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (Config\AsciiLib.h)(0x4CEFC157)
+F (.\Config\HzLib.c)(0x4CF0A5BA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\hzlib.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\hzlib.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\hzlib.d)
+I (Config\HzLib.h)(0x4CEFE9AE)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+F (.\GUI\GUI_CM3.lib)(0x5464CC18)()
+F (.\Inc\BSP.h)(0x57EE5B91)()
+F (.\Inc\JLINKMEM.h)(0x4FBD349D)()
+F (.\Inc\SEGGER.h)(0x4FBD349D)()
+F (.\Inc\TaskPrio.h)(0x4FBD349D)()
+F (.\ReadMe.txt)(0x00000000)()
+F (.\System\HW\HWConf.c)(0x4FBD347F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\hwconf.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\hwconf.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\hwconf.d)
+I (System\HW\DeviceSupport\LPC17xx.h)(0x4FBD347F)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53465C9C)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (System\HW\DeviceSupport\system_LPC17xx.h)(0x4FBD347F)
+I (System\HW\HWConf.h)(0x4FBD347F)
+I (GUI\GUI.h)(0x54491B8E)
+I (GUI\GUI_ConfDefaults.h)(0x54491B8E)
+I (GUI\GUIConf.h)(0x54491B8E)
+I (GUI\GUI_Type.h)(0x54491B8E)
+I (GUI\LCD.h)(0x51C7CDEA)
+I (GUI\Global.h)(0x54491B8E)
+I (GUI\GUI_Version.h)(0x54491B8E)
+F (.\System\HW\HWConf.h)(0x4FBD347F)()
+F (.\System\HW\LCD_X_SPI.h)(0x4FBD347F)()
+F (.\System\HW\DeviceSupport\LPC17xx.h)(0x4FBD347F)()
+F (.\System\HW\DeviceSupport\system_LPC17xx.c)(0x4FBD347F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IApplication -IConfig -IGUI -IInc -ISystem\HW -ISystem\HW\DeviceSupport --diag_suppress=951-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -DDEBUG="1"-o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\system_lpc17xx.o --omf_browse .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\system_lpc17xx.crf --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\system_lpc17xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (System\HW\DeviceSupport\LPC17xx.h)(0x4FBD347F)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53465C9C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (System\HW\DeviceSupport\system_LPC17xx.h)(0x4FBD347F)
+F (.\System\HW\DeviceSupport\system_LPC17xx.h)(0x4FBD347F)()
+F (.\System\HW\DeviceSupport\startup_LPC17xx_Keil.s)(0x4FBD347F)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--pd "__UVISION_VERSION SETA 514"--list .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\lst\startup_lpc17xx_keil.lst --xref -o .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\startup_lpc17xx_keil.o --depend .\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\startup_lpc17xx_keil.d)
+F (.\System\Main.cpp)(0x57F52288)()
+F (.\Application\Main_app.cpp)(0x57EEA65A)()
+F (.\Application\toolsDLG.cpp)(0x57EABF33)()
+F (.\Application\UART.cpp)(0x57EE5839)()
+F (.\Application\SDcard.cpp)(0x57F4F5B8)()
+F (.\MouseKeyboard\libraries\CDL\keil_output\CDL_LPC17xx.lib)(0x57E28393)()
+F (.\MouseKeyboard\libraries\LPCUSBLib\keil_output\LPCUSBlib_LPC17xx_Host.lib)(0x57E283F9)()
+F (.\AF_UART_LIB\AF_CPU.cpp)(0x57D6F2AF)()
+F (.\AF_UART_LIB\AF_FLCD.cpp)(0x57DED2C5)()
+F (.\AF_UART_LIB\AF_string.cpp)(0x57D7DE8E)()
+F (.\AF_UART_LIB\UART.cpp)(0x57E51FB6)()
+F (.\AF_LCD_LIB\AF_LCD.cpp)(0x57E6BBEB)()
+F (.\MouseKeyboard\KeyboardHost.cpp)(0x57E445A6)()
+F (.\AF_SD_LIB\File_Config.c)(0x57ED6AEB)()
+F (.\AF_SD_LIB\SPI_LPC17xx.c)(0x4FAF68DE)()
+F (.\AF_SD_LIB\Retarget.c)(0x57EE54B8)()
+F (.\AF_SD_LIB\Serial.c)(0x4FAF68DE)()
+F (.\AF_SD_LIB\FS_CM3.lib)(0x4BD549D4)()

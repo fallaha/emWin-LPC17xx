@@ -1,0 +1,16 @@
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: Config\LCDConf.c
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: GUI\GUI.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: GUI\GUI_ConfDefaults.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: GUI\GUIConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: GUI\GUI_Type.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: GUI\LCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: GUI\Global.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: GUI\GUI_Version.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: GUI\GUIDRV_FlexColor.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: Config\GLCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: System\HW\DeviceSupport\LPC17xx.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\lcdconf.o: System\HW\DeviceSupport\system_LPC17xx.h

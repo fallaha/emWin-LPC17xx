@@ -1,0 +1,1053 @@
+Dependencies for Project 'LPCUSBlib', Target 'LPC17xx_Device': (DO NOT MODIFY !)
+F (.\Drivers\USB\Class\Common\HIDParser.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\hidparser.o --omf_browse .\keil_output\hidparser.crf --depend .\keil_output\hidparser.d)
+I (Drivers\USB\Class\Common\HIDParser.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Class\Common\../../../../Common/../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\HIDReportData.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\HIDClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../Core/StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Common\../../Core/Events.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Device\AudioClassDevice.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\audioclassdevice.o --omf_browse .\keil_output\audioclassdevice.crf --depend .\keil_output\audioclassdevice.d)
+I (Drivers\USB\Class\Device\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\AudioClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/ConfigDescriptor.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/HostStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/AudioClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/AudioClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/CDCClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/CDCClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/CDCClassCommon.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../Class/HIDClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/HIDClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDParser.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDReportData.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MassStorageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MassStorageClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MassStorageClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MIDIClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MIDIClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MIDIClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/AudioClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/PrinterClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/RNDISClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/RNDISClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/RNDISClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/StillImageClass.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Device\CDCClassDevice.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\cdcclassdevice.o --omf_browse .\keil_output\cdcclassdevice.crf --depend .\keil_output\cdcclassdevice.d)
+I (Drivers\USB\Class\Device\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\CDCClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/ConfigDescriptor.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/HostStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/AudioClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/AudioClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/AudioClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/CDCClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/CDCClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/HIDClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/HIDClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDParser.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDReportData.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MassStorageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MassStorageClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MassStorageClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MIDIClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MIDIClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MIDIClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/PrinterClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/RNDISClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/RNDISClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/RNDISClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/CDCClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/StillImageClass.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54762438)
+F (.\Drivers\USB\Class\Device\HIDClassDevice.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\hidclassdevice.o --omf_browse .\keil_output\hidclassdevice.crf --depend .\keil_output\hidclassdevice.d)
+I (Drivers\USB\Class\Device\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\HIDClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/ConfigDescriptor.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/HostStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/AudioClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/AudioClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/AudioClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/CDCClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/CDCClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/CDCClassCommon.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../Class/HIDClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/HIDClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MassStorageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MassStorageClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MassStorageClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MIDIClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MIDIClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MIDIClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/PrinterClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/RNDISClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/RNDISClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/RNDISClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/StillImageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../Common/HIDClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../Common/HIDParser.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../Common/HIDReportData.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Device\MassStorageClassDevice.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\massstorageclassdevice.o --omf_browse .\keil_output\massstorageclassdevice.crf --depend .\keil_output\massstorageclassdevice.d)
+I (Drivers\USB\Class\Device\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\MassStorageClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/ConfigDescriptor.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/HostStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/AudioClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/AudioClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/AudioClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/CDCClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/CDCClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/CDCClassCommon.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../Class/HIDClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/HIDClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDParser.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDReportData.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MassStorageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MassStorageClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MIDIClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MIDIClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MIDIClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/PrinterClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/RNDISClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/RNDISClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/RNDISClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/StillImageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../Common/MassStorageClassCommon.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Device\MIDIClassDevice.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\midiclassdevice.o --omf_browse .\keil_output\midiclassdevice.crf --depend .\keil_output\midiclassdevice.d)
+I (Drivers\USB\Class\Device\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\MIDIClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/ConfigDescriptor.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/HostStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/AudioClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/AudioClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/AudioClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/CDCClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/CDCClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/CDCClassCommon.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../Class/HIDClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/HIDClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDParser.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDReportData.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MassStorageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MassStorageClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MassStorageClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MIDIClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MIDIClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/PrinterClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/RNDISClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/RNDISClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/RNDISClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/StillImageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../Common/MIDIClassCommon.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Device\RNDISClassDevice.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\rndisclassdevice.o --omf_browse .\keil_output\rndisclassdevice.crf --depend .\keil_output\rndisclassdevice.d)
+I (Drivers\USB\Class\Device\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\RNDISClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/ConfigDescriptor.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Core/HostStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/AudioClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/AudioClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../../USB.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/AudioClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/CDCClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/CDCClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/CDCClassCommon.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54762438)
+I (Drivers\USB\Class\Device\../../Class/HIDClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/HIDClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDParser.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/HIDReportData.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MassStorageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MassStorageClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MassStorageClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/MIDIClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/MIDIClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/../Common/MIDIClassCommon.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/PrinterClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/RNDISClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/Device/RNDISClassDevice.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../../Class/StillImageClass.h)(0x50BEEE76)
+I (Drivers\USB\Class\Device\../Common/RNDISClassCommon.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Host\AudioClassHost.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\audioclasshost.o --omf_browse .\keil_output\audioclasshost.crf --depend .\keil_output\audioclasshost.d)
+I (Drivers\USB\Class\Host\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Host\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Host\CDCClassHost.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\cdcclasshost.o --omf_browse .\keil_output\cdcclasshost.crf --depend .\keil_output\cdcclasshost.d)
+I (Drivers\USB\Class\Host\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Host\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Host\HIDClassHost.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\hidclasshost.o --omf_browse .\keil_output\hidclasshost.crf --depend .\keil_output\hidclasshost.d)
+I (Drivers\USB\Class\Host\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Host\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Host\MassStorageClassHost.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\massstorageclasshost.o --omf_browse .\keil_output\massstorageclasshost.crf --depend .\keil_output\massstorageclasshost.d)
+I (Drivers\USB\Class\Host\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Host\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Host\MIDIClassHost.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\midiclasshost.o --omf_browse .\keil_output\midiclasshost.crf --depend .\keil_output\midiclasshost.d)
+I (Drivers\USB\Class\Host\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Host\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Host\PrinterClassHost.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\printerclasshost.o --omf_browse .\keil_output\printerclasshost.crf --depend .\keil_output\printerclasshost.d)
+I (Drivers\USB\Class\Host\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Host\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Host\RNDISClassHost.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\rndisclasshost.o --omf_browse .\keil_output\rndisclasshost.crf --depend .\keil_output\rndisclasshost.d)
+I (Drivers\USB\Class\Host\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Host\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Class\Host\StillImageClassHost.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\stillimageclasshost.o --omf_browse .\keil_output\stillimageclasshost.crf --depend .\keil_output\stillimageclasshost.d)
+I (Drivers\USB\Class\Host\../../Core/USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Class\Host\../../Core/../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\ConfigDescriptor.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\configdescriptor.o --omf_browse .\keil_output\configdescriptor.crf --depend .\keil_output\configdescriptor.d)
+I (Drivers\USB\Core\ConfigDescriptor.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\../../../Common/../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\HostStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\DeviceStandardReq.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\devicestandardreq.o --omf_browse .\keil_output\devicestandardreq.crf --depend .\keil_output\devicestandardreq.d)
+I (Drivers\USB\Core\USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\Events.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\events.o --omf_browse .\keil_output\events.crf --depend .\keil_output\events.d)
+I (Drivers\USB\Core\Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\../../../Common/../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\USBMode.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\HostStandardReq.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\hoststandardreq.o --omf_browse .\keil_output\hoststandardreq.crf --depend .\keil_output\hoststandardreq.d)
+I (Drivers\USB\Core\USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\USBTask.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\usbtask.o --omf_browse .\keil_output\usbtask.crf --depend .\keil_output\usbtask.d)
+I (Drivers\USB\Core\USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\../../../Common/../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\USBMemory.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\usbmemory.o --omf_browse .\keil_output\usbmemory.crf --depend .\keil_output\usbmemory.d)
+I (Drivers\USB\Core\USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\Device_LPC.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\device_lpc.o --omf_browse .\keil_output\device_lpc.crf --depend .\keil_output\device_lpc.d)
+I (Drivers\USB\Core\LPC\../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\Endpoint_LPC.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\endpoint_lpc.o --omf_browse .\keil_output\endpoint_lpc.crf --depend .\keil_output\endpoint_lpc.d)
+I (Drivers\USB\Core\LPC\../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\EndpointStream_LPC.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\endpointstream_lpc.o --omf_browse .\keil_output\endpointstream_lpc.crf --depend .\keil_output\endpointstream_lpc.d)
+I (Drivers\USB\Core\LPC\../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\Host_LPC.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\host_lpc.o --omf_browse .\keil_output\host_lpc.crf --depend .\keil_output\host_lpc.d)
+I (Drivers\USB\Core\LPC\../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\Pipe_LPC.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\pipe_lpc.o --omf_browse .\keil_output\pipe_lpc.crf --depend .\keil_output\pipe_lpc.d)
+I (Drivers\USB\Core\LPC\../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\PipeStream_LPC.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\pipestream_lpc.o --omf_browse .\keil_output\pipestream_lpc.crf --depend .\keil_output\pipestream_lpc.d)
+I (Drivers\USB\Core\LPC\../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\USBController_LPC.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\usbcontroller_lpc.o --omf_browse .\keil_output\usbcontroller_lpc.crf --depend .\keil_output\usbcontroller_lpc.d)
+I (Drivers\USB\Core\LPC\../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\../../../../Common/../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\HAL\LPC18XX\HAL_LPC18xx.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\hal_lpc18xx.o --omf_browse .\keil_output\hal_lpc18xx.crf --depend .\keil_output\hal_lpc18xx.d)
+F (.\Drivers\USB\Core\LPC\HAL\LPC17XX\HAL_LPC17xx.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\hal_lpc17xx.o --omf_browse .\keil_output\hal_lpc17xx.crf --depend .\keil_output\hal_lpc17xx.d)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../LPC17XX/../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../LPC17XX/../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HAL\LPC17XX\../../../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\HAL\LPC11UXX\HAL_LPC11Uxx.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\hal_lpc11uxx.o --omf_browse .\keil_output\hal_lpc11uxx.crf --depend .\keil_output\hal_lpc11uxx.d)
+F (.\Drivers\USB\Core\LPC\HCD\HCD.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\hcd.o --omf_browse .\keil_output\hcd.crf --depend .\keil_output\hcd.d)
+I (Drivers\USB\Core\LPC\HCD\../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HCD\../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\HCD\OHCI\OHCI.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\ohci.o --omf_browse .\keil_output\ohci.crf --depend .\keil_output\ohci.d)
+I (Drivers\USB\Core\LPC\HCD\OHCI\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HCD\OHCI\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\HCD\EHCI\EHCI.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\ehci.o --omf_browse .\keil_output\ehci.crf --depend .\keil_output\ehci.d)
+I (Drivers\USB\Core\LPC\HCD\EHCI\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\HCD\EHCI\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\DCD\LPC11UXX\Endpoint_LPC11Uxx.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\endpoint_lpc11uxx.o --omf_browse .\keil_output\endpoint_lpc11uxx.crf --depend .\keil_output\endpoint_lpc11uxx.d)
+I (Drivers\USB\Core\LPC\DCD\LPC11UXX\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC11UXX\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\DCD\LPC17XX\Endpoint_LPC17xx.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\endpoint_lpc17xx.o --omf_browse .\keil_output\endpoint_lpc17xx.crf --depend .\keil_output\endpoint_lpc17xx.d)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../LPC/DCD/LPC17XX/../../../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC17XX\../../../LPC/../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\DCD\LPC18XX\Endpoint_LPC18xx.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\endpoint_lpc18xx.o --omf_browse .\keil_output\endpoint_lpc18xx.crf --depend .\keil_output\endpoint_lpc18xx.d)
+I (Drivers\USB\Core\LPC\DCD\LPC18XX\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\LPC18XX\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\DCD\USBRom\usbd_cdc.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\usbd_cdc.o --omf_browse .\keil_output\usbd_cdc.crf --depend .\keil_output\usbd_cdc.d)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\DCD\USBRom\usbd_hid.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\usbd_hid.o --omf_browse .\keil_output\usbd_hid.crf --depend .\keil_output\usbd_hid.d)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\DCD\USBRom\usbd_msc.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\usbd_msc.o --omf_browse .\keil_output\usbd_msc.crf --depend .\keil_output\usbd_msc.d)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+F (.\Drivers\USB\Core\LPC\DCD\USBRom\usbd_rom.c)(0x50BEEE76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CDL\CMSISv2p00_LPC17xx\inc -I..\CDL\CMSISv2p00_LPC17xx\lpcinc -I..\CDL\LPC17xxLib\inc --gnu --c99 --diag_suppress=1207-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514" -D__LPC17XX__ -DUSB_DEVICE_ONLY-o .\keil_output\usbd_rom.o --omf_browse .\keil_output\usbd_rom.crf --depend .\keil_output\usbd_rom.d)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../USBMode.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../LPCUSBlibConfig.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Common.h)(0x50BEEE76)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x54762438)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x54762438)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/ArchitectureSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/CompilerSpecific.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Architectures.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Attributes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/BoardTypes.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../../../../Common/Endianness.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../StdDescriptors.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Events.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../USBInterrupt.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/Endpoint_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/Endpoint_LPC17xx.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../EndpointCommon.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../../HAL/HAL_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/../../HAL/LPC17XX/HAL_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\LPC17xx.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cm3.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmInstr.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\inc\core_cmFunc.h)(0x50BEEE76)
+I (..\CDL\CMSISv2p00_LPC17xx\lpcinc\system_LPC17xx.h)(0x50BEEE76)
+I (..\CDL\LPC17xxLib\inc\lpc_types.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/USBController_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../USBTask.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../Device.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../Endpoint.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../DeviceStandardReq.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../StdRequestType.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../USBController.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../EndpointStream.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/../LPC/../LPC/EndpointStream_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/Device_LPC.h)(0x50BEEE76)
+I (Drivers\USB\Core\LPC\DCD\USBRom\../../../LPC/DCD/LPC17XX/Device_LPC17xx.h)(0x50BEEE76)
+F (.\LPCUSBlibConfig.h)(0x50BEEE76)()

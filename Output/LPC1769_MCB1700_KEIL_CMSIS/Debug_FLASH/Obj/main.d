@@ -1,0 +1,15 @@
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: System\Main.c
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: System\HW\DeviceSupport\lpc17xx.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: System\HW\DeviceSupport\system_LPC17xx.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: System\HW\HWConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: GUI\GUI.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: GUI\GUI_ConfDefaults.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: GUI\GUIConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: GUI\GUI_Type.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: GUI\LCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: GUI\Global.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\main.o: GUI\GUI_Version.h

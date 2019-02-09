@@ -1,0 +1,9 @@
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: Application\AA_Text.c
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: GUI\GUI.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: GUI\GUI_ConfDefaults.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: GUI\GUIConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: GUI\GUI_Type.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: GUI\LCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: GUI\Global.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\aa_text.o: GUI\GUI_Version.h

@@ -1,0 +1,9 @@
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: Application\MEMDEV_WindowEffects\Desktop_320x240.c
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: GUI\GUI.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: GUI\GUI_ConfDefaults.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: GUI\GUIConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: GUI\GUI_Type.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: GUI\LCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: GUI\Global.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\desktop_320x240.o: GUI\GUI_Version.h

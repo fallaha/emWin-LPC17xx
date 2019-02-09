@@ -1,0 +1,9 @@
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: Config\LCDConf.c
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: GUI\GUI.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: GUI\GUI_ConfDefaults.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: GUI\GUIConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: GUI\GUI_Type.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: GUI\LCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: GUI\Global.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: GUI\GUI_Version.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\lcdconf.o: GUI\GUIDRV_FlexColor.h

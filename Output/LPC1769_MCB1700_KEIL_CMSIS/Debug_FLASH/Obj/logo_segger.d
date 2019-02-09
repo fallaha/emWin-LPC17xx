@@ -1,0 +1,9 @@
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: Application\DashBoard_ATM\Logo_Segger.c
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: GUI\GUI.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: GUI\GUI_ConfDefaults.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: GUI\GUIConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: GUI\GUI_Type.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: GUI\LCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: GUI\Global.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\logo_segger.o: GUI\GUI_Version.h

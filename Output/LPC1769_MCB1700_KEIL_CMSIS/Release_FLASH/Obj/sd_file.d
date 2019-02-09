@@ -1,0 +1,14 @@
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: AF_SD_LIB\SD_File.c
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: C:\Keil\ARM\RV31\INC\RTL.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: C:\Keil\ARM\ARMCC\Bin\..\include\ctype.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: System\HW\DeviceSupport\LPC17xx.H
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: System\HW\DeviceSupport\system_LPC17xx.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: AF_SD_LIB\File_Config.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: AF_SD_LIB\SD_File.h
+.\output\lpc1769_mcb1700_keil_cmsis\release_flash\obj\sd_file.o: AF_SD_LIB\Serial.h

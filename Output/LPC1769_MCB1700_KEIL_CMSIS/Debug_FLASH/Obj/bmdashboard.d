@@ -1,0 +1,9 @@
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: Application\DashBoard_ATM\bmDashboard.c
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: GUI\GUI.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: GUI\GUI_ConfDefaults.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: GUI\GUIConf.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: GUI\GUI_Type.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: GUI\LCD.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: GUI\Global.h
+.\output\lpc1769_mcb1700_keil_cmsis\debug_flash\obj\bmdashboard.o: GUI\GUI_Version.h

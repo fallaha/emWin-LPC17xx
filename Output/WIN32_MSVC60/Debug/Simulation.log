@@ -1,0 +1,14 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(366,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+  Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+  
+  cl  ■/
+     
+  
+CL : Command line warning D4024: unrecognized source file type ' ■/', object file assumed
+  Microsoft (R) Incremental Linker Version 6.00.8168
+  Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+  
+  /out:.exe 
+   ■/ 
+LINK : fatal error LNK1181: cannot open input file " ■/.obj"
